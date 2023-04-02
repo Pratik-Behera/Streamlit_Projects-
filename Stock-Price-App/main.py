@@ -3,7 +3,7 @@ import yfinance as yf
 import streamlit as st  
 import pandas as pd
 
-
+#Stock Price App
 st.write("""
 # Stock Price App
 
