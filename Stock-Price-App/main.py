@@ -28,5 +28,3 @@ st.write("""
 """)
 st.line_chart(amzn_hist.Volume)
 
-
-
